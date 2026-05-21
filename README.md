@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulsalam-alashwal/)
 [![Email](https://img.shields.io/badge/Email-abdulsalamalashwal%40outlook.com-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:abdulsalamalashwal@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulsalamfaiz2024-cmd)
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-seven-taupe.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulsalam-portfolio.vercel.app/en)
 
 </div>
 
@@ -129,5 +129,5 @@ I am a **Data Analyst** with a strong background in **Data Engineering**, **ETL 
   <h3>🤝 Let's Connect and Build Something Meaningful!</h3>
   <p>Feel free to reach out for collaborations on Data Engineering projects, BI integrations, or custom Agentic AI workflows.</p>
   
-  **[Email Me](mailto:abdulsalamalashwal@outlook.com) • [Connect on LinkedIn](https://www.linkedin.com/in/abdulsalam-alashwal/) • [View Live Web Portfolio](https://portfolio-website-seven-taupe.vercel.app/)**
+  **[Email Me](mailto:abdulsalamalashwal@outlook.com) • [Connect on LinkedIn](https://www.linkedin.com/in/abdulsalam-alashwal/) • [View Live Web Portfolio](https://abdulsalam-portfolio.vercel.app/en)**
 </div>
