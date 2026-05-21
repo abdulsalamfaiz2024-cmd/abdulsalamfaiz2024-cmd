@@ -73,52 +73,59 @@ I am a **Data Analyst** and **Data Engineer** specializing in **ETL/ELT pipeline
 *   **UI & API:** Fast FastAPI backend serving a responsive, interactive Streamlit frontend with Plotly chart visualizations.
 *   **Technologies:** `Python`, `Google Gemini API`, `FastAPI`, `Streamlit`, `ChromaDB`, `scikit-learn`, `Docker`.
 
-### 🧠 2. [PhonixPro — AI-Driven SaaS Data Analysis Platform](https://github.com/abdulsalamfaiz2024-cmd/phonix-pro)
+### 🇾🇪 2. [Yemen Crisis Analytics & Intelligence Command Center](https://github.com/abdulsalamfaiz2024-cmd/yemen-crisis-dashboard)
+*A dynamic geospatial monitoring command center and analytics platform tracking real-time meteorological and OCHA humanitarian indicators.*
+*   **Core Engineering:** Custom HTML5 Canvas overlaid on interactive Leaflet.js maps, rendering live wind particle vector flows using database wind speed/direction.
+*   **ETL Automation:** Background meteorological fetcher syncing 14 variables every 5 minutes from Open-Meteo API, integrated with ReliefWeb API and Population.io demo graphs.
+*   **Analytical Models:** Interactive Chart.js atmospheric radar panels, medical caseload forecast matrix grids, and predictive education attendance model algorithms.
+*   **Technologies:** `Python`, `Flask`, `SQLite 3`, `Leaflet.js`, `Chart.js`, `ReliefWeb API`, `HTML5 Canvas`.
+
+### 🧠 3. [PhonixPro — AI-Driven SaaS Data Analysis Platform](https://github.com/abdulsalamfaiz2024-cmd/phonix-pro)
 *A professional-grade cloud platform designed to automate statistical modeling, data cleaning, and reporting for non-technical users.*
 *   **Core Logic:** Supports drag-and-drop CSV/Excel parsing, smart type inference, comprehensive statistics (PCA, clustering, ANOVA, Regression), and dynamic PDF exports.
 *   **AI Integrations:** Features a natural-language "Chat with Data" assistant interface, AI-curated infographic summaries (Auto Canvas), and one-click smart data cleaning suggestions.
 *   **Architecture:** Scalable web application with modular data processing backend and interactive user workspace.
 *   **Technologies:** `Next.js 15`, `React`, `Python`, `PostgreSQL`, `Redis`, `Framer Motion`, `Gemini AI`, `Docker`.
 
-### 🧩 3. [COMS — Frappe-Decoupled Standalone System Core](https://github.com/abdulsalamfaiz2024-cmd/coms-standalone-core)
+### 🧩 4. [COMS — Frappe-Decoupled Standalone System Core](https://github.com/abdulsalamfaiz2024-cmd/coms-standalone-core)
 *A systems engineering breakthrough that decoupled a complex ERPNext Consultant Operations and Management app into a standalone core.*
 *   **Core Engineering:** Designed a custom Python shim (`frappe.py`) to replicate Frappe engine services, database query engines, and validation controls without installing heavy external bench environments.
 *   **Architecture:** Ported database models to a lightweight SQLite database and wrapped the core modules in a FastAPI/Flask web server.
 *   **Key Scripts:** Automated user/data migrations from live ERP systems and built robust validation suites for data continuity.
 *   **Technologies:** `Python`, `SQLite`, `Frappe Core Shim`, `Flask/FastAPI`, `SQL Data Migrators`.
 
-### ⏱️ 4. [Customer Survival Analysis & Churn Prediction](https://github.com/abdulsalamfaiz2024-cmd/customer-survival-analysis)
+### ⏱️ 5. [Customer Survival Analysis & Churn Prediction](https://github.com/abdulsalamfaiz2024-cmd/customer-survival-analysis)
 *A machine learning and survival regression pipeline to forecast customer churn, model customer lifespans, and uncover retention drivers.*
 *   **Core Logic:** Implemented Kaplan-Meier survival curves and Cox Proportional Hazards regression to evaluate time-to-event outcomes.
 *   **ML Engine:** Structured Random Forest classification models with SHAP (SHapley Additive exPlanations) for transparent, explainable feature importance.
 *   **User Interface:** Wrapped the prediction models in a local Flask dashboard featuring live parameter testing and cohort retention graphs.
 *   **Technologies:** `Python`, `lifelines`, `scikit-learn`, `SHAP`, `Pandas`, `Flask`, `Matplotlib`.
 
-### 💼 5. [Mini-ERP — Production-Ready Sales & Finance System](https://github.com/abdulsalamfaiz2024-cmd/mini-erp-system)
+### 💼 6. [Mini-ERP — Production-Ready Sales & Finance System](https://github.com/abdulsalamfaiz2024-cmd/mini-erp-system)
 *A standalone enterprise system featuring transaction management, inventory valuation, and P&L statements.*
 *   **Core Logic:** Implemented strict FIFO (First-In, First-Out) inventory valuation logic, complete sales/returns checkout pipelines, and a local high-performance LRU cache.
 *   **Advanced Features:** Integrated global search shortcuts (Ctrl+K), dual-themed design, real-time database schema integrity checks, and direct financial reports export.
 *   **Technologies:** `Python`, `Tkinter`, `SQLite`, `LRU Caching`, `ReportLab (PDF Export)`.
 
-### 🎙️ 6. [Podcast Text Extractor — AI Audio Processing Factory](https://github.com/abdulsalamfaiz2024-cmd/podcast-text-extractor)
+### 🎙️ 7. [Podcast Text Extractor — AI Audio Processing Factory](https://github.com/abdulsalamfaiz2024-cmd/podcast-text-extractor)
 *An automated media processing pipeline that extracts audio, transcribes it using speech-to-text models, and generates searchable semantic indexes.*
 *   **Pipeline:** Watcher directories parse video formats, call FFmpeg pipelines for audio normalization, and stream to a local Whisper AI server.
 *   **Features:** Automated grammar and formatting post-processing, speech-to-text transcription alignment, and structured JSON/Markdown transcripts export.
 *   **Technologies:** `Python`, `Whisper AI`, `FFmpeg`, `FastAPI`, `File System Observers`.
 
-### 📱 7. [PDF Pro Scanner & Mobile Utility App](https://github.com/abdulsalamfaiz2024-cmd/pdf-pro-scanner)
+### 📱 8. [PDF Pro Scanner & Mobile Utility App](https://github.com/abdulsalamfaiz2024-cmd/pdf-pro-scanner)
 *A dual-fronted utility system offering a high-productivity Vite web dashboard alongside a complete cross-platform Flutter mobile application.*
 *   **Vite Web:** An AI Studio bootstrapped Vite React app delivering lightning-fast client-side OCR parsing, PDF merging, and scan filters.
 *   **Flutter Mobile (`oqba`):** A beautiful cross-platform mobile client structuring tool pages for secure conversion, document scans, premium bundles, and offline folder management.
 *   **Technologies:** `Flutter (Dart)`, `React`, `Vite`, `TypeScript`, `OCR Services`, `l10n localization`.
 
-### 🌐 8. [Hotline — Bilingual Enterprise Logistics Platform](https://github.com/abdulsalamfaiz2024-cmd/hotline-logistics-web)
+### 🌐 9. [Hotline — Bilingual Enterprise Logistics Platform](https://github.com/abdulsalamfaiz2024-cmd/hotline-logistics-web)
 *A beautiful, highly interactive Next.js 15 web platform for a major maritime, air, and land logistics shipping corporation.*
 *   **Frontend Design:** Responsive multi-page layout integrating Lucide animations, bilingual language modules (Arabic/English), cargo inquiry contact hubs, and modern interactive grids.
 *   **Optimizations:** Implemented full SEO meta strategies, local image processing utilities, and lazy-loading responsive components for instant load speed.
 *   **Technologies:** `Next.js 15`, `React`, `Tailwind CSS`, `Lucide Icons`, `SEO Best Practices`.
 
-### 🗄️ 9. [TNSC Relational Database Architecture](https://github.com/abdulsalamfaiz2024-cmd/tnsc-database-schema)
+### 🗄️ 10. [TNSC Relational Database Architecture](https://github.com/abdulsalamfaiz2024-cmd/tnsc-database-schema)
 *A production-ready PostgreSQL relational schema migrating complex business and M&E workflows from spreadsheet chaos to high-integrity data infrastructure.*
 *   **Complexity:** 36 fully-normalized tables, 25+ partial and composite indexes, and 6 specialized views tracking staff utilization, grant funding, and indicator achievement.
 *   **Advanced Logic:** Native UUID keys, bilingual support (`name`/`name_ar`), automatic soft-deletes, generated columns for invoice math, and transactional triggers.
