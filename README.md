@@ -34,6 +34,7 @@ I am a Data Analyst and Data Engineer specializing in ETL/ELT pipeline automatio
 
 ### 2. [Yemen Analytics & Monitoring Command Center](https://github.com/abdulsalamfaiz2024-cmd/yemen-crisis-dashboard)
 *A geospatial data platform that collects and displays real-time weather data and humanitarian indicators for Yemen's governorates.*
+*   **Live Link**: [yemen-crisis-dashboard.vercel.app/health](https://yemen-crisis-dashboard.vercel.app/health)
 *   **Visuals**: Integrates Leaflet.js maps with a custom HTML5 Canvas overlay that animates wind patterns dynamically based on live database values.
 *   **Data Pipelines**: Automated background scripts fetch weather parameters every 5 minutes from the Open-Meteo API, combining them with RSS feeds from ReliefWeb (OCHA) and public population indicators.
 *   **Analytics**: Interactive Chart.js radar charts and grids display atmospheric indices, medical caseload trends, and simulated school attendance metrics.
@@ -47,6 +48,7 @@ I am a Data Analyst and Data Engineer specializing in ETL/ELT pipeline automatio
 
 ### 4. [COMS — Decoupled Business Management Core](https://github.com/abdulsalamfaiz2024-cmd/coms-standalone-core)
 *Decoupled a complex consulting operations application from the heavy ERPNext/Frappe framework, converting it into a lightweight, standalone system.*
+*   **Live Link**: [custom-system-copy.onrender.com](https://custom-system-copy.onrender.com)
 *   **Core Logic**: Created a custom Python utility to replicate Frappe's database query methods and validators, eliminating the need to install or run the full Frappe bench environment.
 *   **Database & Server**: Ported all data structures to SQLite and wrapped the system in a Flask/FastAPI REST server.
 *   **Migrations**: Developed migration scripts to safely extract and import data from legacy systems while maintaining referential integrity.
@@ -79,6 +81,7 @@ I am a Data Analyst and Data Engineer specializing in ETL/ELT pipeline automatio
 
 ### 9. [Hotline — Bilingual Shipping & Logistics Web Portal](https://github.com/abdulsalamfaiz2024-cmd/hotline-logistics-web)
 *A multi-page landing page and customer portal developed for a logistics and shipping company.*
+*   **Live Link**: [hotline-web-three.vercel.app](https://hotline-web-three.vercel.app/)
 *   **Design**: A responsive frontend featuring custom animations, full English/Arabic translation support, and interactive shipping inquiry forms.
 *   **Performance**: Optimized for page loading speeds using image processing utilities, search engine optimization best practices, and lazy-loaded elements.
 *   **Technologies**: `Next.js 15`, `React`, `Tailwind CSS`, `Lucide`.
