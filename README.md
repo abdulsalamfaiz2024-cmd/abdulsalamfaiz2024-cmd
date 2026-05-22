@@ -116,7 +116,15 @@ I am a Data Analyst and Data Engineer specializing in ETL/ELT pipeline automatio
 
 ## Credentials & Education
 
-*   **B.Sc. in International Business Management** - *International University of Technology Twintech (IUTT), Yemen*
+### Academic Degree
+
+> **Bachelor of Science (B.Sc.) in International Business Management**
+> *International University of Technology Twintech (IUTT), Yemen*
+
+---
+
+### Certifications & Specialized Programs
+
 *   **IBM Data Engineering Specialization** (16-course program) - *IBM via Coursera* | [Verify ↗](https://coursera.org/share/b92252a31c9217759bbdb98be201608e)
     <br/>
     <img src="IBM_Data_Engineering.png" alt="IBM Data Engineering Certificate" width="350" />
