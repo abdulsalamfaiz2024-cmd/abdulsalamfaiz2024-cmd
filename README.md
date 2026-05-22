@@ -142,24 +142,7 @@ I am a Data Analyst and Data Engineer specializing in ETL/ELT pipeline automatio
     <br/>
     <img src="HND_Educational_Leadership.png" alt="Youth Leadership Program Certificate" width="250" />
 
----
 
-## My GitHub Status
-
-<div align="center">
-  <a href="https://github.com/abdulsalamfaiz2024-cmd" target="_blank">
-    <img src="https://img.shields.io/badge/Contributions-Active-blue?style=for-the-badge&logo=github" alt="GitHub Contributions" />
-  </a>
-  <a href="https://github.com/abdulsalamfaiz2024-cmd" target="_blank">
-    <img src="https://img.shields.io/github/followers/abdulsalamfaiz2024-cmd?style=for-the-badge&logo=github&color=24292e&label=Followers" alt="Followers" />
-  </a>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulsalamfaiz2024-cmd&show_icons=true&theme=nord&count_private=true" alt="Abdulsalam's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsalamfaiz2024-cmd&layout=compact&theme=nord" alt="Top Languages" />
-</div>
-
----
 
 <div align="center">
   <h2>Contact & Collaboration</h2>
