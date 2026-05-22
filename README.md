@@ -117,10 +117,18 @@ I am a Data Analyst and Data Engineer specializing in ETL/ELT pipeline automatio
 ## Credentials & Education
 
 *   **B.Sc. in International Business Management** - *International University of Technology Twintech (IUTT), Yemen*
-*   **IBM Data Engineering Specialization** (16-course program) - *IBM via Coursera*
-*   **Advanced Business Analytics Specialization** - *University of Colorado via Coursera*
-*   **Modern Big Data Analysis with SQL Specialization** - *Cloudera via Coursera*
+*   **IBM Data Engineering Specialization** (16-course program) - *IBM via Coursera* | [Verify ↗](https://coursera.org/share/b92252a31c9217759bbdb98be201608e)
+*   **Advanced Business Analytics Specialization** - *University of Colorado via Coursera* | [Verify ↗](https://coursera.org/verify/specialization/SS7MCGLM9B92)
+*   **Modern Big Data Analysis with SQL Specialization** - *Cloudera via Coursera* | [Verify ↗](https://coursera.org/share/0814333adf33da90fe2725ac5adc5b91)
+*   **Entrepreneurship Mastery Program** - *Mohammed bin Rashid Foundation & UNDP via Coursera* | [Verify ↗](https://coursera.org/share/519ae898fa90c20a74d2589a8ae32aa9)
 *   **HND in Educational Leadership** - *Youth Leadership Development Foundation (YLDF)*
+
+<br/>
+
+### Featured Certification
+<div align="center">
+  <img src="IBM_Data_Engineering.png" alt="IBM Data Engineering Specialization Certificate" width="85%" />
+</div>
 
 ---
 
