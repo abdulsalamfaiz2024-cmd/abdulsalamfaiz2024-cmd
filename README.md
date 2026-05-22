@@ -118,17 +118,20 @@ I am a Data Analyst and Data Engineer specializing in ETL/ELT pipeline automatio
 
 *   **B.Sc. in International Business Management** - *International University of Technology Twintech (IUTT), Yemen*
 *   **IBM Data Engineering Specialization** (16-course program) - *IBM via Coursera* | [Verify ↗](https://coursera.org/share/b92252a31c9217759bbdb98be201608e)
+    <br/>
+    <img src="IBM_Data_Engineering.png" alt="IBM Data Engineering Certificate" width="350" />
 *   **Advanced Business Analytics Specialization** - *University of Colorado via Coursera* | [Verify ↗](https://coursera.org/verify/specialization/SS7MCGLM9B92)
+    <br/>
+    <img src="Advanced_Business_Analytics.png" alt="Advanced Business Analytics Certificate" width="350" />
 *   **Modern Big Data Analysis with SQL Specialization** - *Cloudera via Coursera* | [Verify ↗](https://coursera.org/share/0814333adf33da90fe2725ac5adc5b91)
+    <br/>
+    <img src="Modern_Big_Data_Analysis.png" alt="Modern Big Data Analysis with SQL Certificate" width="350" />
 *   **Entrepreneurship Mastery Program** - *Mohammed bin Rashid Foundation & UNDP via Coursera* | [Verify ↗](https://coursera.org/share/519ae898fa90c20a74d2589a8ae32aa9)
+    <br/>
+    <img src="Entrepreneurship_Mastery.png" alt="Entrepreneurship Mastery Program Certificate" width="220" />
 *   **HND in Educational Leadership** - *Youth Leadership Development Foundation (YLDF)*
-
-<br/>
-
-### Featured Certification
-<div align="center">
-  <img src="IBM_Data_Engineering.png" alt="IBM Data Engineering Specialization Certificate" width="85%" />
-</div>
+    <br/>
+    <img src="HND_Educational_Leadership.png" alt="HND in Educational Leadership Certificate" width="250" />
 
 ---
 
