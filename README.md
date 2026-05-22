@@ -1,7 +1,20 @@
 # Abdulsalam Al-Ashwal
 ### Data Analyst & Data Engineer | Systems & Software Developer
 
-[LinkedIn](https://www.linkedin.com/in/abdulsalam-alashwal/) | [Email](mailto:abdulsalamalashwal@outlook.com) | [GitHub](https://github.com/abdulsalamfaiz2024-cmd) | [Live Portfolio](https://abdulsalam-portfolio.vercel.app/en)
+<div align="center">
+  <a href="https://www.linkedin.com/in/abdulsalam-alashwal/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abdulsalamalashwal@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/abdulsalamfaiz2024-cmd" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://abdulsalam-portfolio.vercel.app/en" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
+  </a>
+</div>
 
 ---
 
@@ -17,9 +30,12 @@ I am a Data Analyst and Data Engineer specializing in ETL/ELT pipeline automatio
 
 ## Technical Toolbox
 
-*   **Business Intelligence**: Power BI (DAX / Modeling), Tableau, Excel & VBA, KPI Tracking, Monitoring & Evaluation Frameworks
-*   **Data & Systems Engineering**: Python (ETL / Pandas / NumPy), PostgreSQL, SQL Server, SQLite, Flask, FastAPI, Docker
-*   **Web & Mobile Development**: Next.js, React, TypeScript, Flutter, Tailwind CSS, HTML5/CSS3
+*   **Business Intelligence**: <br/>
+    ![](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+*   **Data & Systems Engineering**: <br/>
+    ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+*   **Web & Mobile Development**: <br/>
+    ![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) ![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
@@ -119,6 +135,13 @@ I am a Data Analyst and Data Engineer specializing in ETL/ELT pipeline automatio
 ## My GitHub Status
 
 <div align="center">
+  <a href="https://github.com/abdulsalamfaiz2024-cmd" target="_blank">
+    <img src="https://img.shields.io/badge/Contributions-Active-blue?style=for-the-badge&logo=github" alt="GitHub Contributions" />
+  </a>
+  <a href="https://github.com/abdulsalamfaiz2024-cmd" target="_blank">
+    <img src="https://img.shields.io/github/followers/abdulsalamfaiz2024-cmd?style=for-the-badge&logo=github&color=24292e&label=Followers" alt="Followers" />
+  </a>
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=abdulsalamfaiz2024-cmd&show_icons=true&theme=nord&count_private=true" alt="Abdulsalam's GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsalamfaiz2024-cmd&layout=compact&theme=nord" alt="Top Languages" />
