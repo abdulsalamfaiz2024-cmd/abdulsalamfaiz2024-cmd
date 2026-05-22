@@ -2,6 +2,12 @@
 ### Data Analyst & Data Engineer | Systems & Software Developer
 
 <div align="center">
+  <a href="README_AR.md"><b>العربية (Arabic Version)</b></a>
+</div>
+
+<br/>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/abdulsalam-alashwal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
