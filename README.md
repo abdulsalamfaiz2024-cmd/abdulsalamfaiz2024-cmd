@@ -42,6 +42,7 @@ I am a Data Analyst and Data Engineer specializing in ETL/ELT pipeline automatio
 
 ### 3. [PhonixPro — Data Analytics and Reporting Platform](https://github.com/abdulsalamfaiz2024-cmd/phonix-pro)
 *A web application designed to simplify statistical modeling, data cleaning, and business reporting.*
+*   **Live Link**: [phonixpro.ddns.net](https://phonixpro.ddns.net/)
 *   **Features**: Supports drag-and-drop CSV/Excel file uploads, automatic data type detection, descriptive statistics (PCA, clustering, regression), and PDF exports.
 *   **Interactivity**: Includes a natural-language data query assistant, automated layout structures, and smart recommendations for data cleaning.
 *   **Technologies**: `Next.js 15`, `React`, `Python`, `PostgreSQL`, `Redis`, `Framer Motion`.
