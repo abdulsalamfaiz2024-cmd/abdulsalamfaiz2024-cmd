@@ -70,39 +70,32 @@ I am a Data Analyst and Data Engineer specializing in ETL/ELT pipeline automatio
 *   **Migrations**: Developed migration scripts to safely extract and import data from legacy systems while maintaining referential integrity.
 *   **Technologies**: `Python`, `SQLite`, `Flask`, `FastAPI`.
 
-### 5. [Customer Survival Analysis & Churn Prediction](https://github.com/abdulsalamfaiz2024-cmd/customer-survival-analysis)
-*A statistical modeling pipeline built to forecast customer churn and evaluate retention factors.*
-*   **Analysis**: Uses Kaplan-Meier curves and Cox Proportional Hazards regression to model customer survival lifespans.
-*   **Modeling**: Combines survival models with Random Forest classifiers, applying SHAP values to explain feature contributions clearly.
-*   **Dashboard**: Serves predictions through a Flask web application with interactive charts and parameter sliders.
-*   **Technologies**: `Python`, `lifelines`, `scikit-learn`, `SHAP`, `Flask`, `Matplotlib`.
-
-### 6. [Mini-ERP — Sales and Inventory Management System](https://github.com/abdulsalamfaiz2024-cmd/mini-erp-system)
+### 5. [Mini-ERP — Sales and Inventory Management System](https://github.com/abdulsalamfaiz2024-cmd/mini-erp-system)
 *A desktop business application that handles sales checkouts, inventory valuation, and basic financial reporting.*
 *   **Logic**: Implemented first-in, first-out (FIFO) inventory valuation, a transaction checkout workflow, and an in-memory cache to optimize database reads.
 *   **Usability**: Includes keyboard shortcuts (Ctrl+K), dual themes, automated database structure checks on boot, and PDF invoice generation.
 *   **Technologies**: `Python`, `Tkinter`, `SQLite`, `ReportLab`.
 
-### 7. [Podcast Text Extractor — Audio Transcription Pipeline](https://github.com/abdulsalamfaiz2024-cmd/podcast-text-extractor)
+### 6. [Podcast Text Extractor — Audio Transcription Pipeline](https://github.com/abdulsalamfaiz2024-cmd/podcast-text-extractor)
 *A file-monitoring pipeline that automatically extracts audio from media files, transcribes it, and formats the output.*
 *   **Workflow**: Detects new video/audio files, uses FFmpeg for audio normalization, and calls a local Whisper model to transcribe the speech.
 *   **Formatting**: Post-processes transcriptions for punctuation, timestamps, and formatting, exporting the final transcripts in Markdown and JSON.
 *   **Technologies**: `Python`, `Whisper`, `FFmpeg`, `FastAPI`.
 
-### 8. [PDF Pro Scanner — Web and Mobile Utility App](https://github.com/abdulsalamfaiz2024-cmd/pdf-pro-scanner)
+### 7. [PDF Pro Scanner — Web and Mobile Utility App](https://github.com/abdulsalamfaiz2024-cmd/pdf-pro-scanner)
 *A document utility suite featuring a lightweight web interface and a cross-platform mobile application.*
 *   **Web Client**: Built with React and Vite to support fast client-side PDF merging, image adjustments, and simple text recognition.
 *   **Mobile Client**: A Flutter-based mobile application designed for document scanning, offline folder organization, and multi-language support.
 *   **Technologies**: `Flutter`, `React`, `Vite`, `TypeScript`.
 
-### 9. [Hotline — Bilingual Shipping & Logistics Web Portal](https://github.com/abdulsalamfaiz2024-cmd/hotline-logistics-web)
+### 8. [Hotline — Bilingual Shipping & Logistics Web Portal](https://github.com/abdulsalamfaiz2024-cmd/hotline-logistics-web)
 *A multi-page landing page and customer portal developed for a logistics and shipping company.*
 *   **Live Link**: [hotline-web-three.vercel.app](https://hotline-web-three.vercel.app/)
 *   **Design**: A responsive frontend featuring custom animations, full English/Arabic translation support, and interactive shipping inquiry forms.
 *   **Performance**: Optimized for page loading speeds using image processing utilities, search engine optimization best practices, and lazy-loaded elements.
 *   **Technologies**: `Next.js 15`, `React`, `Tailwind CSS`, `Lucide`.
 
-### 10. [TNSC Relational Database Design](https://github.com/abdulsalamfaiz2024-cmd/tnsc-database-schema)
+### 9. [TNSC Relational Database Design](https://github.com/abdulsalamfaiz2024-cmd/tnsc-database-schema)
 *A normalized PostgreSQL database schema designed to migrate complex NGO operations from spreadsheet tracking into a structured, high-integrity database.*
 *   **Structure**: Features 36 fully-normalized tables, optimized composite indexes, and 6 custom views for staff utilization and financial tracking.
 *   **Rules & Triggers**: Utilizes UUID primary keys, bilingual columns, soft-delete rules, and triggers for automated audit logs.
