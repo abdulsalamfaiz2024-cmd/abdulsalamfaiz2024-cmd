@@ -24,6 +24,8 @@ I am a Data Analyst and Data Engineer specializing in ETL/ELT pipeline automatio
 
 *   Based in: Yemen
 *   Languages: Arabic (Native) & English (Professional)
+*   Email: abdulsalamalashwal@outlook.com
+*   Phone: +967 77 503 2054
 *   Approach: If a business workflow is manual and repeated, it can and should be automated.
 
 ---
@@ -145,5 +147,7 @@ I am a Data Analyst and Data Engineer specializing in ETL/ELT pipeline automatio
   <h3>Let's Connect</h3>
   <p>Feel free to reach out for collaborations on Data Engineering projects, business intelligence dashboards, or systems automation.</p>
   
-  [Email Me](mailto:abdulsalamalashwal@outlook.com) | [Connect on LinkedIn](https://www.linkedin.com/in/abdulsalam-alashwal/) | [View Live Web Portfolio](https://abdulsalam-portfolio.vercel.app/en)
+  **Email:** abdulsalamalashwal@outlook.com | **Phone / WhatsApp:** +967 77 503 2054
+  <br/><br/>
+  [Connect on LinkedIn](https://www.linkedin.com/in/abdulsalam-alashwal/) | [View Live Web Portfolio](https://abdulsalam-portfolio.vercel.app/en)
 </div>
