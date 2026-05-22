@@ -2,6 +2,12 @@
 ### Data Analyst & Data Engineer | Systems & Software Developer
 
 <div align="center">
+  <img src="profile-circle.png" alt="Abdulsalam Al-Ashwal" width="150" />
+</div>
+
+<br/>
+
+<div align="center">
   <a href="README_AR.md"><b>العربية (Arabic Version)</b></a>
 </div>
 
